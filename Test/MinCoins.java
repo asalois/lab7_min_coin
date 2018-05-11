@@ -1,6 +1,7 @@
 /* Author: Alex Salois
  * Date: May 11, 2018
  * Overview: Program to implement a greedy change making and use Junit testing
+ * Run this using Junit, usually its some bulb or check to the left that can trigger execution
  */
 
 import java.util.Arrays;
